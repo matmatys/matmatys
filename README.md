@@ -142,7 +142,7 @@ Singularity University - Exponential Inception Program (2023)
 IAE Business School - MBA 
 National Technological University (UTN) - Bachelor of Science in Systems Engineering
   
-Agile Management, Product Development & Strategy
+Agile Management, Software Development, Product Development & Strategy
 
 ---
 
