@@ -14,8 +14,8 @@ My work combines **deep technical implementation** with **strategic technology l
 
 ## Featured Projects
 
-• Programming III – UTN FRBA Course Project (UTNito)  
-Full-stack chat system used in my Programming III course at UTN.  
+• Programming III – UTN FRBA Course Project (UTNito)
+Full-stack chat system I designed as the main project for my Programming III course at UTN FRBA.
 https://github.com/matmatys/programacion_III_UTN
 
 • Wallet + Payment Processor Architecture Demo  
