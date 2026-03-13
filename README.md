@@ -137,10 +137,14 @@ Microservices · API-first systems · event workflows · AI integrations
 Stanford Graduate School of Business - Stanford Executive Program (SEP) 2024
 - Stanford GSB Alumni
 
-Singularity University - Exponential Inception Program (2023)
+Singularity University - Chapter BA
+- Exponential Inception Program (2023)
 
-IAE Business School - MBA 
-National Technological University (UTN) - Bachelor of Science in Systems Engineering
+IAE Business School
+- MBA 
+
+National Technological University (UTN)
+- Bachelor of Science in Systems Engineering
   
 Agile Management, Software Development, Product Development & Strategy
 
