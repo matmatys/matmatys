@@ -135,7 +135,7 @@ Microservices · API-first systems · event workflows · AI integrations
 # Background
 
 Stanford Graduate School of Business - Stanford Executive Program (SEP) 2024
-Stanford GSB Alumni
+- Stanford GSB Alumni
 
 Singularity University - Exponential Inception Program (2023)
 
