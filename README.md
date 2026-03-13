@@ -140,11 +140,10 @@ Stanford Executive Program (SEP) 2024
 Singularity University  
 Exponential Inception Program
 
-IAE Business School  
-MBA – Agile Management, Product Development & Strategy
-
-National Technological University (UTN)  
-Bachelor of Science in Systems Engineering
+IAE Business School - MBA 
+National Technological University (UTN) - Bachelor of Science in Systems Engineering
+  
+Agile Management, Product Development & Strategy
 
 ---
 
