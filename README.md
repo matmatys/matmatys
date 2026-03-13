@@ -29,7 +29,7 @@ https://www.linkedin.com/in/matias-caputi/
 
 # AI Startup
 
-## Janne AI
+## Janne AI - Co Founder and CTO
 
 Janne is an **AI assistant designed to operate through messaging platforms** like WhatsApp and Telegram, helping professionals manage workflows, CRM information and daily tasks using natural language.
 
