@@ -12,6 +12,21 @@ My work combines **deep technical implementation** with **strategic technology l
 
 ---
 
+## Featured Projects
+
+• Programming III – UTN FRBA Course Project (UTNito)  
+Full-stack chat system used in my Programming III course at UTN.  
+https://github.com/matmatys/programacion_III_UTN
+
+• Wallet + Payment Processor Architecture Demo  
+Distributed fintech architecture demo with Angular, Spring Boot, NestJS and Docker.  
+https://gitlab.com/matymatute_code/payment_processor_example_v2
+
+• LinkedIn  
+https://www.linkedin.com/in/matias-caputi/
+
+---
+
 # AI Startup
 
 ## Janne AI
