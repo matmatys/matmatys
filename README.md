@@ -134,11 +134,10 @@ Microservices · API-first systems · event workflows · AI integrations
 
 # Background
 
-Stanford Graduate School of Business  
-Stanford Executive Program (SEP) 2024
+Stanford Graduate School of Business - Stanford Executive Program (SEP) 2024
+Stanford GSB Alumni
 
-Singularity University  
-Exponential Inception Program
+Singularity University - Exponential Inception Program (2023)
 
 IAE Business School - MBA 
 National Technological University (UTN) - Bachelor of Science in Systems Engineering
