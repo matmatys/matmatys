@@ -125,7 +125,7 @@ AI & Automation
 LLMs · RAG · AI agents · n8n workflows
 
 Infrastructure  
-Docker · PostgreSQL · MySQL · SQLite · Cloud architectures
+Docker · PostgreSQL · MySQL · SQLite · Cloud architectures · AWS
 
 Architecture  
 Microservices · API-first systems · event workflows · AI integrations
